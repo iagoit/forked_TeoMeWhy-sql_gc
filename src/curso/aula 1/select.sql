@@ -1,0 +1,4 @@
+--SELECT 'OLA MUNDO'
+
+SELECT *
+FROM tb_players
